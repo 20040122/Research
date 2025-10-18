@@ -1,15 +1,9 @@
-# Research
-
-## 数据挖掘，分析
-
-### git流程
->远程有readme的main分支，默认本地最新
+远程有readme的main分支，默认本地为最新
 ```
 git init
 git remote add origin https://github.com/你的用户名/Research.git
 git fetch origin
 git reset --hard origin/main
-
 
 git add .
 git commit -m "更新"
