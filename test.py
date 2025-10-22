@@ -8,4 +8,4 @@ if torch.cuda.is_available():
     c = a + b
     print("a + b =", c)
 else:
-    print("CUDA 不可用")
+    print("git 测试")
